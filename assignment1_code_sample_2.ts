@@ -7,7 +7,7 @@ const dbConfig = {
     host: 'mydatabase.com',
     user: 'admin',
     password: 'secret123',
-    database: 'mydb'
+    database: 'mydb     '
 };
 
 function getUserInput(): Promise<string> {
